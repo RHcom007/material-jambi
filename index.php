@@ -12,8 +12,9 @@ $kategori = mysqli_fetch_all($result, MYSQLI_ASSOC);
     <meta charset="utf-8">
     <title>Material Jambi - Bahan Bangunan Online</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+    <meta name="keywords" content="bahan bangunan, material bangunan, jual bahan bangunan, toko bahan bangunan">
+    <meta name="description" content="Temukan berbagai bahan bangunan berkualitas tinggi di toko kami. Kami menyediakan berbagai macam material bangunan untuk kebutuhan konstruksi Anda.">
+
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
